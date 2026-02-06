@@ -21,3 +21,7 @@ Pandas
 NumPy
 
 Matplotlib / Seaborn
+
+Resultados Esperados
+
+El proyecto permite identificar tendencias del mercado de videojuegos, detectar oportunidades comerciales y optimizar estrategias de marketing basadas en datos históricos y análisis estadístico.
